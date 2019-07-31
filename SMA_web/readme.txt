@@ -10,9 +10,9 @@ Query5.php		-	executes Query5
 login.php		- 	page after login also contains query6 to quer10
 Post.php		-	Inserts post into database
 comment.php		-	Inserts comment to post in database
-deletcom.php	-	deletes particular comment
+deletcom.php	  -	deletes particular comment
 follow.php		- 	used to follow or unfollow any user
-deletepost.php	-	deletes particular post created by a logged in user
+deletepost.php	  -	deletes particular post created by a logged in user
 logout.php		-	deletes all session variables and logsout current user
 readme.txt		- 	explains about structure of project and extra features
 
